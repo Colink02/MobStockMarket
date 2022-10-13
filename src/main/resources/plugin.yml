@@ -1,0 +1,9 @@
+name: Mob StockMarket
+version: '${version}'
+main: com.colink02dev.mobstockmarket.MobStockMarket
+api-version: 1.19
+prefix: Mob-Stock-Market
+depend: [ Vault ]
+authors: [ Colink02 ]
+description: Make mobs worth more as less are killed
+website: colink02dev.com
