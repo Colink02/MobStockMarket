@@ -1,4 +1,4 @@
-name: Mob StockMarket
+name: Mob-Stock-Market
 version: '${version}'
 main: com.colink02dev.mobstockmarket.MobStockMarket
 api-version: 1.19
